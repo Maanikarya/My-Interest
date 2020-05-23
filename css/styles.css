@@ -1,0 +1,65 @@
+body{
+	background-color: #ebf0f6 ;
+}
+
+h1 , h2 {
+	text-align: center ;
+	font-family: 'Chelsea Market', cursive;
+}
+
+h1{
+text-shadow: 5px 5px 10px red;
+}
+h2{
+font-size: xxx-large ;
+}
+hr{
+border: 0;
+height: 1px;
+background: #333;
+background-image: linear-gradient(to right, #ccc, #333, #ccc);
+width: 500px ;
+}
+.top-container{
+margin-bottom: 20px ;
+}
+.second-container{
+margin: 30px 0px ;
+display: flex;
+}
+.second-container div{
+width: 50% ;
+}
+.img-div{
+text-align: center ;
+}
+.profile-pic{
+width: 200px;
+height: auto;
+border-radius: 50%;
+}
+.about-me{
+padding-right: 20px ;
+text-align: left ;
+}
+.about-me-content{
+font-size: 21px;
+line-height: 50px ;
+font-family: 'Montserrat', sans-serif;
+}
+
+.interest-div{
+	display: flex;
+	margin :  30px 0px ;
+}
+
+.interest-div div{
+	width: 50% ;
+	text-align: center ;
+	
+}
+
+.learning-img{
+     width :  320px  ;
+     height :  240px ;
+}
